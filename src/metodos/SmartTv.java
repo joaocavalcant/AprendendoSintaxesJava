@@ -2,9 +2,14 @@ package metodos;
 
 public class SmartTv {
 	
+	// a classe possui 3 caracteristicas que são a nivel da classe
+	
+	//Toda a classe pode ter acesso a todos esses atributos
+	
 	boolean ligada = false;
 	int canal = 1;
 	int volume = 25;
+	
 	
 	
 	public void ligar() {
