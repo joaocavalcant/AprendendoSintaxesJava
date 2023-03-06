@@ -53,7 +53,7 @@ public class MinhaClasse {
 	
 	/*NomeObjetivoDefinido ->*/nomeCompleto
 	
-	/*Parametro a serem utilizados ->*/ (String primeiroNome, String segundoNome) {
+	/*Parametros a serem utilizados ->*/ (String primeiroNome, String segundoNome) {
 		
 		return "Resultado do método " + primeiroNome + segundoNome;
 		
